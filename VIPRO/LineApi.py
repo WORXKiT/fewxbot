@@ -607,7 +607,7 @@ class LINE:
       prof = self.getProfile()
 
       print("╔════════════════════════════════╗")
-      print("║         「 ᴠɪᴘʀᴏ ʙᴏᴛ」         ║")
+      print("║         「 ғᴇᴡx  ʙᴏᴛ」         ║")
       print("╚════════════════════════════════╝")
       print("MID= " + prof.mid)
       print("NAMA= " + prof.displayName)
